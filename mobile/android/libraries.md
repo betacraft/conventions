@@ -8,6 +8,12 @@ This file contains some very very useful libraries for avoiding some boilerplate
 3. https://android.googlesource.com/platform/frameworks/volley/ [By Google]
 4. https://github.com/RainingClouds/hatchttp [By us and based on NIO]
 
+### Dependency Injection
+1. http://square.github.io/dagger/
+
+### View Injection
+1. https://github.com/JakeWharton/butterknife
+
 ### Storing and gettig back the state in Activity, Fragment or views
 1. https://github.com/frankiesardo/icepick
 
