@@ -23,6 +23,9 @@ This file contains some very very useful libraries for avoiding some boilerplate
 ### Adding up animations
 1. http://facebook.github.io/rebound/ Rebound by facebook
 
+### Library collection
+1. http://android-libs.com/
+
 ## UIInspiration 
 
 This bit contains some the UI/UX related stuff. Different insirations websites, components that you can use while developing the app.
