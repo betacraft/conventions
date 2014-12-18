@@ -23,6 +23,9 @@ This file contains some very very useful libraries for avoiding some boilerplate
 ### Adding up animations
 1. http://facebook.github.io/rebound/ Rebound by facebook
 
+### Tab strip
+1. https://github.com/astuetz/PagerSlidingTabStrip
+
 ### Library collection
 1. http://android-libs.com/
 
